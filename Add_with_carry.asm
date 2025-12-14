@@ -5,7 +5,7 @@
   		add a,r0;
   		jnc next
   		inc r1;
-next: mov 50h,a;
+next:   mov 50h,a;
   		mov 51h,r1;
   		end
 		
